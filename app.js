@@ -1,2 +1,6 @@
 'use strict';
-console.log('test');
+function helloWorld() {
+  console.log('Hello World!');
+}
+
+helloWorld();
