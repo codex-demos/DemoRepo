@@ -1,6 +1,6 @@
 'use strict';
-function helloWorld() {
-  console.log('Hello World!');
+function helloWorld(person) {
+  console.log('Hello ' + person);
 }
 
-helloWorld();
+helloWorld('Bob');
