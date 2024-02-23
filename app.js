@@ -5,6 +5,8 @@ function helloWorld(person) {
   p.innerText = 'Hello ' + person;
   body.appendChild(p);
   console.log('Hello ' + person, body, p);
+  console.log('Hello ' + person, body, p);
+  console.log('Hello ' + person, body, p);
 }
 
 helloWorld('Bob');
