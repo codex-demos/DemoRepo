@@ -10,3 +10,4 @@ function helloWorld(person) {
 }
 
 helloWorld('Bob');
+helloWorld('Bob');
