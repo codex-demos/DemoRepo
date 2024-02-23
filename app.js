@@ -9,5 +9,3 @@ function helloWorld(person) {
 
 helloWorld('Bob');
 helloWorld('Bob');
-helloWorld('Bob');
-helloWorld('Bob');
