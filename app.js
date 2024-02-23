@@ -4,7 +4,7 @@ function helloWorld(person) {
   const p = document.createElement('p');
   p.innerText = 'Hello ' + person;
   body.appendChild(p);
-  console.log('Hello ' + person);
+  console.log('Hello ' + person, body, p);
 }
 
 helloWorld('Bob');
